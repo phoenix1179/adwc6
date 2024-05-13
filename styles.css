@@ -1,0 +1,14 @@
+@import "header.css";
+@import "main.css";
+@import "sidebar.css";
+@import "footer.css";
+
+* {
+box-sizing: border-box;
+}
+body {
+margin: 0;
+font-family: Arial, sans-serif;
+}
+         
+         
